@@ -1,3 +1,5 @@
 /.env
 /database/channels_priority.txt
 /database/channels_secondary.txt
+/main.session
+/session_name.session
