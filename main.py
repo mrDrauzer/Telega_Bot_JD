@@ -10,6 +10,8 @@ from parsers.telegram_parser import parse_channels
 from datetime import datetime
 import asyncio
 import logging
+from dotenv import load_dotenv
+import os
 
 # Настройка логирования
 logging.basicConfig(

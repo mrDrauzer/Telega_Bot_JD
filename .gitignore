@@ -1,0 +1,3 @@
+/.env
+/database/channels_priority.txt
+/database/channels_secondary.txt
